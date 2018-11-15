@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ValidationProviderSuccessEvent/Form1.cs) (VB: [Form1.vb](./VB/ValidationProviderSuccessEvent/Form1.vb))
+* [MyValidationProvider.cs](./CS/ValidationProviderSuccessEvent/MyValidationProvider.cs) (VB: [MyValidationProvider.vb](./VB/ValidationProviderSuccessEvent/MyValidationProvider.vb))
+<!-- default file list end -->
 # Events of successful validation for DXValidationProvider
 
 
